@@ -1,0 +1,14 @@
+# Preference Ranking and Trade-off Guidelines
+
+## Priority Hierarchy
+1. Mandatory hard constraints (Return flight leg, Room capacity, Passenger seat availability, Strict budget compliance) must ALWAYS be satisfied.
+2. Soft preferences (Direct flights, City centre hotel location, High hotel rating, Morning departure) are evaluated only among itineraries that satisfy all mandatory constraints.
+3. Scoring Weights:
+   - Direct flight: +30 points.
+   - City centre hotel: +25 points.
+   - High rating (>=4.0): +10 to +20 points.
+   - Morning flight departure: +15 points.
+   - Budget savings bonus: Up to +10 points proportional to surplus under budget ceiling.
+4. Preference Trade-off Rule:
+   In cases where no single itinerary satisfies all soft preferences within budget, the optimizer should prioritize direct flight over suburban hotel trade-offs, unless explicitly directed otherwise.
+

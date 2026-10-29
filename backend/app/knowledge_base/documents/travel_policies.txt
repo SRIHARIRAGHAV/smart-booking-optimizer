@@ -1,0 +1,15 @@
+# Travel Planning Operational Policies
+
+## Budget Compliance Policy
+All itinerary proposals must strictly comply with the user's maximum stated budget limit. The total trip cost encompasses:
+1. Base flight fares for all travelling passengers.
+2. Complete hotel room night charges for the requested room count and duration.
+3. Mandatory government taxes, airport passenger service fees, and local hotel occupancy charges.
+No hidden charges or separate billing categories are permissible. If the aggregated cost exceeds the budget ceiling by even one rupee, the itinerary is classified as non-compliant and cannot be recommended without a search recovery cycle or explicit user-authorized budget relaxation.
+
+## Mandatory Travel Legs
+A trip marked with the 'return_trip' constraint requires both an outbound journey and an inbound return journey. Incomplete single-leg itineraries cannot be submitted for final approval.
+
+## Passenger Capacity and Seat Availability
+Flight bookings must guarantee verified seat inventory matching or exceeding the exact passenger count. Standby seats or unconfirmed waitlists violate the mandatory booking requirements.
+

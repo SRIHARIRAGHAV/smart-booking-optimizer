@@ -1,0 +1,12 @@
+# Travel Cancellation and Refund Provisions
+
+## Flight Cancellation Guidelines
+- Cancellations requested at least 72 hours prior to scheduled departure are eligible for partial refund minus carrier processing surcharges.
+- Non-refundable budget fares typically offer travel credit vouchers rather than cash refunds.
+- Unverified flight records cannot guarantee cancellation terms.
+
+## Accommodation Cancellation Rules
+- Standard hotel bookings allow free cancellation up to 48 hours before check-in date.
+- Discounted promotional rates (budget-tier) may be strictly non-refundable upon reservation lock.
+- Taxes and mandatory occupancy charges are refunded if the stay is cancelled within permitted grace periods.
+

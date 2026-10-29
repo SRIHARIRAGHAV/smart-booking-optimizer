@@ -1,0 +1,12 @@
+# Accommodation Classification and Location Guidelines
+
+## City Centre Definition
+Accommodations tagged as 'City Centre' must reside within designated core municipal commercial zones, proximity corridors to central metro nodes, or within 3.5 km of primary urban downtown hubs (e.g., MG Road / Brigade Road in Bengaluru, Connaught Place in Delhi).
+
+## Quality and Cleanliness Standards
+Hotels with a customer rating of 4.0 or greater out of 5.0 are designated high-quality standard accommodations. Ratings below 3.5 are flagged as budget-compromised.
+
+## Essential Amenities
+Standard business and family travel requires at minimum: reliable Wi-Fi, air conditioning, and 24-hour reception desk.
+Complimentary breakfast contributes positively to user satisfaction ratings.
+
